@@ -1,15 +1,17 @@
 {
-  "name": "hyperpower",
-  "version": "1.2.0",
+  "name": "hyperpower2",
+  "version": "1.0.0",
   "keywords": [
     "hyper",
+    "hyperpower",
+    "hyperpower2",
     "hyper.app",
     "hyper-plugin"
   ],
   "description": "Extension for particle effects in Hyper",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeit/hyperpower.git"
+    "url": "git+https://github.com/razfriman/hyperpower"
   },
   "dependencies": {
     "color": "3.1.0",
