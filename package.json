@@ -14,10 +14,10 @@
     "url": "git+https://github.com/razfriman/hyperpower"
   },
   "dependencies": {
-    "color": "3.1.0",
-    "convert-css-color-name-to-hex": "0.1.1",
-    "lodash.throttle": "4.1.1",
-    "lodash.values": "4.3.0",
-    "lodash.random": "3.2.0"
+    "color": "^3.1.2",
+    "convert-css-color-name-to-hex": "^0.1.1",
+    "lodash.throttle": "^4.1.1",
+    "lodash.values": "^4.3.0",
+    "lodash.random": "^3.2.0"
   }
 }
