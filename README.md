@@ -4,7 +4,7 @@ Extension for Hyper that turns on power mode.
 
 - Simple configuration in `.hyper.js`
 
-![hyper](https://cloud.githubusercontent.com/assets/13041/16820268/13c9bfe6-4905-11e6-8fe4-baf8fc8d9293.gif)
+![hyper](https://user-images.githubusercontent.com/1769935/61003168-a33b9380-a3a6-11e9-83e5-76b80ebc1a14.gif)
 
 ## How to use
 
