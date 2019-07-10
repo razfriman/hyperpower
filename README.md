@@ -1,4 +1,4 @@
-# Hyperpower
+# Hyperpower2
 
 Extension for Hyper that turns on power mode.
 
